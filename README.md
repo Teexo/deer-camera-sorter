@@ -145,6 +145,4 @@ If you encounter any issues or have questions, please open an Issue on GitHub.
 
 ---
 
-**Perfect for**: Wildlife monitoring, hunting preparation, property security, research projects, and outdoor photography organization.
-
-*Stop scrolling through thousands of empty trail cam photos - let AI do the work for you!* 🦌🔍
+**Perfect for**: Wildlife monitoring, hunting preparation, property security, research projects, and outdoor photography organization 🦌🔍
